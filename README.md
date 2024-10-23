@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @will-pilled
-- 👀 I’m interested in molecular biology and biomedical engineering
+- 👀 I’m interested in molecular biology and computational neuroscience
 - 🌱 I’m currently learning about specific proteins responsible for a multitude of different functions, all of which can be found in my ChimeraX repository
 - 💞️ I’m looking to collaborate on specific ChimeraX projects
 - 📫 How to reach me:
