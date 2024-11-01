@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @will-pilled
-- 👀 I’m interested in molecular biology and computational neuroscience
-- 🌱 I’m currently learning about specific proteins responsible for a multitude of different functions, all of which can be found in my ChimeraX repository
-- 💞️ I’m looking to collaborate on specific ChimeraX projects
+- 🧠 I’m interested in computational neuroscience
+- 🌱 I’m a beginner in Julia and Python
 - 📫 How to reach me:
 - Discord - willpilled.
-- ORCID - 0009-0005-2472-9060
 - Carrd - https://willpilled.carrd.co/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: :3
-
-- P.S:
-- Please be patient with me when it comes to Python, my knowledge is very limited !!
