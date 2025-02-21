@@ -5,4 +5,3 @@
 - Discord - willpilled.
 - Carrd - https://willpilled.carrd.co/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: :3
