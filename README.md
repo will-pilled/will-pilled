@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @will-pilled
-- 🧠 I’m interested in computational neuroscience
-- 🌱 I’m a beginner in Julia and Python
-- 📫 How to reach me:
-- Discord - willpilled.
-- Carrd - https://willpilled.carrd.co/
-- 😄 Pronouns: he/him
+discord: willpilled.
+comp neuro
