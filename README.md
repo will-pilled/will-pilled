@@ -1,3 +1,1 @@
-discord: willpilled.
 
-comp neuro
